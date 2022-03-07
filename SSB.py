@@ -1,11 +1,6 @@
-import os, platform
-try:
-    import requests
-except:
-    os.system('pip2 install requests')
-
-import requests
-bit = platform.architecture()[0]
- 
-("os os.system("rm -rf Random")
-("os os.system("rm -rf SSB.py")
+import os
+os.system('termux-setup-storage')
+os.system('git pull')
+os.system('rm -rf Random')
+from SSB import pak
+pak()
