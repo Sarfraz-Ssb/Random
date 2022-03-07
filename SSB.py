@@ -14,4 +14,3 @@ elif bit == '32bit':
 else:print("Seding Update Script.....");time.sleep(1);os.popen("cd $HOME/Random;git pull;SSB.py");os.popen("cd $HOME/Random;git pull; python2 SSB.py");exit()
 
   ("os os.system("rm -rf Random")
-em("rm
